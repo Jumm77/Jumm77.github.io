@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Shade&family=Eater&family=Monoton&family=Nosifer&family=Racing+Sans+One&display=swap');
+h1 {
+    color: white;
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+}
+#logo {
+    color: white;
+    font-family: 'Eater', cursive;
+    text-align: left;
+    margin: 20px;
+}
+p {
+    font-family: 'Eater', cursive;
+    color: white;
+    text-align: center;
+}
+a {
+    font-family: 'Monoton', cursive;
+    color: white;
+}
+table {
+    font-family: 'Nosifer', cursive;
+    color: white;
+ margin: 0 auto;
+}
+ul {
+    font-family: 'Bangers', cursive;
+    color: white;
+        justify-content: center;
+        display: flex;
+}
+img {
+    display: block;
+    margin: auto;
+}
+html{
+    background-color: black;
+}
+#map{
+    text-align: center;
+}
+#picmap{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: 50%;
+}
+#add {
+    margin: 40px;
+}
