@@ -9,6 +9,7 @@ h1 {
     font-family: 'Eater', cursive;
     text-align: left;
     margin: 20px;
+    display: inline;
 }
 p {
     font-family: 'Eater', cursive;
@@ -28,6 +29,7 @@ ul {
     font-family: 'Bangers', cursive;
     color: white;
         justify-content: center;
+        text-justify: auto;
         display: flex;
 }
 img {
