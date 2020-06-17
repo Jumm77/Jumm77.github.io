@@ -19,6 +19,7 @@ p {
 a {
     font-family: 'Monoton', cursive;
     color: white;
+    text-decoration: none;
 }
 table {
     font-family: 'Nosifer', cursive;
@@ -50,4 +51,7 @@ html{
 }
 #add {
     margin: 40px;
+}
+.link{
+    font-family: 'Nosifer', cursive;
 }
